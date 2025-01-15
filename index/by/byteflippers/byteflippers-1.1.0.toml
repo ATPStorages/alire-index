@@ -55,6 +55,6 @@ website = "https://github.com/Bread-Experts-Group/byteflippers"
 tags = ["byte", "endian", "flip", "swap", "msb", "lsb", "big-endian", "little-endian"]
 
 [origin]
-commit = "e615325a95256e99e8831f13a22cd151982763cf"
+commit = "990c9baafba841014696df61b845f5bf58cfc6f5"
 url = "git+https://github.com/Bread-Experts-Group/byteflippers.git"
 
